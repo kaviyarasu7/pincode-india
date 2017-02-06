@@ -1,0 +1,1 @@
+{"version":3,"file":"splash.styles.js","sourceRoot":"","sources":["splash.styles.ts"],"names":[],"mappings":"AAAA,YAAY,CAAC;OAEN,EAAC,UAAU,EAAC,MAAM,cAAc;AAEvC,IAAI,MAAM,GAAG,UAAU,CAAC,MAAM,CAAC;IAC7B,SAAS,EAAE;QACT,IAAI,EAAE,CAAC;QACP,cAAc,EAAE,QAAQ;QACxB,UAAU,EAAE,QAAQ;QACpB,eAAe,EAAE,SAAS;KAC3B;CACF,CAAC,CAAC;AAEH,eAAe,MAAM,CAAC"}

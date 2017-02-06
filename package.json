@@ -1,0 +1,30 @@
+{
+  "name": "Pincode",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.37",
+    "@types/react": "^0.14.37",
+    "@types/react-native": "^0.29.35",
+    "@types/whatwg-fetch": "0.0.31",
+    "@types/whatwg-streams": "0.0.1",
+    "lodash": "^4.16.4",
+    "native-base": "^0.5.17",
+    "react": "15.4.1",
+    "react-native": "0.38.0",
+    "react-native-swiper": "^1.5.4"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "devDependencies": {
+    "babel-jest": "17.0.2",
+    "babel-preset-react-native": "1.9.0",
+    "jest": "17.0.3",
+    "react-test-renderer": "15.4.1"
+  }
+}
