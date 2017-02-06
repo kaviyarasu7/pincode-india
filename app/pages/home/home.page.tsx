@@ -7,27 +7,7 @@ class HomePage extends Component<any,any> {
 	constructor(props: any) {
 		super(props);
 	}
-
-	// OnListMenuClicked(selectedMenu: string){
-
-	// 	switch (selectedMenu) {
-    //   		case 'CORPORATE ORIENTATION':
-	// 			this.props.navigator.replace({
-	// 				name: 'CoHome',
-	// 			});
-	// 			return;
-	// 		case 'CO-Slide Zoom':
-	// 			this.props.navigator.replace({
-	// 				name: 'CoSlide',
-	// 			});
-	// 			return;
-	// 		case 'CO-Video':
-	// 			this.props.navigator.replace({
-	// 				name: 'CoVideo',
-	// 			});
-	// 			return;
-	// 	}
-	// }
+	
 	getResult(){
 		this.props.navigator.replace({
 			name: 'Result',
