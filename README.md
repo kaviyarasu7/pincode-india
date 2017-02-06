@@ -1,4 +1,4 @@
-# Kotak - React Native
+# Pincode India - React Native
 
 ### Development Dependencies
 
