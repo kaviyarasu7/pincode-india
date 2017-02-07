@@ -7,7 +7,8 @@ class HomePage extends Component<any,any> {
 	constructor(props: any) {
 		super(props);
 	}
-	
+
+
 	getResult(){
 		this.props.navigator.replace({
 			name: 'Result',
